@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  juliafrare
 
 navigation:
- - {file: "index.html", title: Home, icon: home}
+ - {file: "index.html", title: "Home", icon: home}
 
 # Build settings
 theme: minima
