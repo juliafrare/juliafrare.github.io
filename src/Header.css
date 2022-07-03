@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    margin: 5px;
+}
+
+a { 
+    color: inherit;
+}
