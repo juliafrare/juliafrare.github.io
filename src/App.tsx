@@ -1,18 +1,18 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { TextField } from './TextField';
 import TabsComponent from './TabsComponent';
-import { Example } from './Example';
 
-function App() {  
+const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <div>
-          <TabsComponent />
-        </div>
+        <img src={logo} className="App-logo" alt="logo" />
+        <TabsComponent/>
       </header>
     </div>
   );
-}
+};
 
 export default App;

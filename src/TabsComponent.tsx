@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import './TabsComponent.css'
-import { Education, JobExperience, Activities, Projects, Skills } from "./Tabs";
+import { Activities, Education, JobExperience, Projects, Skills } from "./Tabs";
 
 const tabItems = [
     {
@@ -30,7 +30,7 @@ const tabItems = [
     },
 ];
 
-const TabsComponent = () => {
+const TabsComponent: React.FC = () => {
     const [active, setActive] = useState(0);
      
     return (
