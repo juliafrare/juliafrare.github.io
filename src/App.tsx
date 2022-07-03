@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { TextField } from './TextField';
 import TabsComponent from './TabsComponent';
 import { Header } from './Header';
 import { Socials } from './Socials';
