@@ -5,7 +5,7 @@ const Home = () => {
             <h2>Welcome!</h2>
             <p>
                 I'm Julia, a computer science student from Brazil. 
-                I'm currently in the fifth year of my undergraduate studies and am currently a doftware engineering intern at Amdocs. 
+                I'm currently in the fifth year of my undergraduate studies and am currently a software engineering intern at Amdocs. 
                 This site was created with the intention of exposing my resume and potentially hosting future projects.
             </p>
         </div>
